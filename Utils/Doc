@@ -1,0 +1,11 @@
+
+1 - Install Python 3
+2 - In te pycharm terminal install selenium WebDriver Python (https://pypi.python.org/pypi/selenium)
+    pip3 install -U selenium
+3 - Downloads drivers
+    brew install jq
+    3.1 latest geckoDriver:
+      run install_latest_gecko.sh
+    3.2 latest
+      run install_chromeDriver.sh
+
