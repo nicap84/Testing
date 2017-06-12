@@ -36,3 +36,1183 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-05-26 00:21:07.305 plugin-container[3911:289841] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
+1497112135661	geckodriver	INFO	Listening on 127.0.0.1:49576
+1497112136979	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497112139491	Marionette	INFO	Listening on port 49585
+1497112139598	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-10 18:29:00.116 plugin-container[718:36546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-10 18:29:00.119 plugin-container[718:36546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 718] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1497169171685	geckodriver	INFO	Listening on 127.0.0.1:56792
+1497169172922	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169175439	Marionette	INFO	Listening on port 56805
+1497169175543	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:19:36.159 plugin-container[913:36994] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:19:36.162 plugin-container[913:36994] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 913] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497169343086	geckodriver	INFO	Listening on 127.0.0.1:57462
+1497169344217	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169346430	Marionette	INFO	Listening on port 57471
+1497169346541	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:22:27.096 plugin-container[972:40879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:22:27.100 plugin-container[972:40879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 972] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497169452016	geckodriver	INFO	Listening on 127.0.0.1:57873
+1497169452110	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169454606	Marionette	INFO	Listening on port 57880
+1497169454683	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:24:15.276 plugin-container[991:42014] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:24:15.278 plugin-container[991:42014] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[Child 991] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497169574022	geckodriver	INFO	Listening on 127.0.0.1:58313
+1497169574113	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169576592	Marionette	INFO	Listening on port 58320
+1497169576672	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:26:17.238 plugin-container[1008:44069] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:26:17.241 plugin-container[1008:44069] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497169628334	geckodriver	INFO	Listening on 127.0.0.1:58571
+1497169628443	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169630797	Marionette	INFO	Listening on port 58578
+1497169630895	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:27:11.388 plugin-container[1024:44898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:27:11.392 plugin-container[1024:44898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497169725796	geckodriver	INFO	Listening on 127.0.0.1:58945
+1497169726892	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169728977	Marionette	INFO	Listening on port 58954
+1497169729108	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:28:49.570 plugin-container[1049:46223] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:28:49.574 plugin-container[1049:46223] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1049] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497169844078	geckodriver	INFO	Listening on 127.0.0.1:59374
+1497169845165	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169847289	Marionette	INFO	Listening on port 59383
+1497169847377	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:30:47.932 plugin-container[1064:47324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:30:47.936 plugin-container[1064:47324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[Child 1064] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497169877739	geckodriver	INFO	Listening on 127.0.0.1:59567
+1497169878825	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169881369	Marionette	INFO	Listening on port 59580
+1497169881566	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:31:22.383 plugin-container[1083:48059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:31:22.389 plugin-container[1083:48059] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497169949699	geckodriver	INFO	Listening on 127.0.0.1:59879
+1497169950789	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169952845	Marionette	INFO	Listening on port 59888
+1497169952911	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:32:33.467 plugin-container[1097:49080] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:32:33.469 plugin-container[1097:49080] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497169987621	geckodriver	INFO	Listening on 127.0.0.1:60074
+1497169987748	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497169990176	Marionette	INFO	Listening on port 60081
+1497169990276	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:33:11.065 plugin-container[1109:50109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:33:11.070 plugin-container[1109:50109] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1497170386926	geckodriver	INFO	Listening on 127.0.0.1:61578
+1497170387053	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497170389412	Marionette	INFO	Listening on port 61585
+1497170389509	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:39:50.061 plugin-container[1166:56016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:39:50.064 plugin-container[1166:56016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497170469374	geckodriver	INFO	Listening on 127.0.0.1:61965
+1497170470459	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497170472684	Marionette	INFO	Listening on port 61978
+1497170472774	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:41:13.284 plugin-container[1182:57641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:41:13.287 plugin-container[1182:57641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497170521839	geckodriver	INFO	Listening on 127.0.0.1:62249
+1497170522957	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497170525122	Marionette	INFO	Listening on port 62262
+1497170525195	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:42:05.750 plugin-container[1203:58611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:42:05.753 plugin-container[1203:58611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[Child 1203] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 1203] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 1203] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497170547470	geckodriver	INFO	Listening on 127.0.0.1:62436
+1497170548633	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497170550794	Marionette	INFO	Listening on port 62445
+1497170550868	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:42:31.415 plugin-container[1216:59286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:42:31.418 plugin-container[1216:59286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1216] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497170565409	geckodriver	INFO	Listening on 127.0.0.1:62586
+1497170566521	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497170569290	Marionette	INFO	Listening on port 62599
+1497170569378	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 10:42:50.051 plugin-container[1227:59993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 10:42:50.054 plugin-container[1227:59993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9407, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 1227] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497191841015	geckodriver	INFO	Listening on 127.0.0.1:64640
+1497191842256	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497191844610	Marionette	INFO	Listening on port 64653
+1497191844679	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:37:25.235 plugin-container[1286:71954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:37:25.237 plugin-container[1286:71954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1497191899058	geckodriver	INFO	Listening on 127.0.0.1:64896
+1497191900148	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497191902936	Marionette	INFO	Listening on port 64909
+1497191903052	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:38:23.873 plugin-container[1302:72916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:38:23.876 plugin-container[1302:72916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 1302] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497191924593	geckodriver	INFO	Listening on 127.0.0.1:65097
+1497191925688	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497191928115	Marionette	INFO	Listening on port 65106
+1497191928206	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:38:49.276 plugin-container[1312:73605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:38:49.279 plugin-container[1312:73605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 1312] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 1312] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497191983753	geckodriver	INFO	Listening on 127.0.0.1:65373
+1497191984829	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497191986901	Marionette	INFO	Listening on port 65386
+1497191987049	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:39:47.577 plugin-container[1332:75282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:39:47.585 plugin-container[1332:75282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1497192016237	geckodriver	INFO	Listening on 127.0.0.1:49187
+1497192016354	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192018815	Marionette	INFO	Listening on port 49194
+1497192018895	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:40:19.519 plugin-container[1345:76228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:40:19.523 plugin-container[1345:76228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1345] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192049905	geckodriver	INFO	Listening on 127.0.0.1:49386
+1497192050051	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192052480	Marionette	INFO	Listening on port 49393
+1497192052573	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:40:53.115 plugin-container[1362:77223] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:40:53.118 plugin-container[1362:77223] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497192063788	geckodriver	INFO	Listening on 127.0.0.1:49537
+1497192064882	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192067580	Marionette	INFO	Listening on port 49550
+1497192067657	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:41:08.454 plugin-container[1372:77866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:41:08.455 plugin-container[1372:77866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497192142019	geckodriver	INFO	Listening on 127.0.0.1:49883
+1497192143101	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192145719	Marionette	INFO	Listening on port 49896
+1497192145786	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:42:26.281 plugin-container[1384:79249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:42:26.284 plugin-container[1384:79249] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 1384] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 1384] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192169755	geckodriver	INFO	Listening on 127.0.0.1:50136
+1497192169837	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192172218	Marionette	INFO	Listening on port 50143
+1497192172290	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:42:52.852 plugin-container[1396:80266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:42:52.854 plugin-container[1396:80266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1396] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192204729	geckodriver	INFO	Listening on 127.0.0.1:50370
+1497192204838	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192207441	Marionette	INFO	Listening on port 50377
+1497192207573	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:43:28.086 plugin-container[1411:81160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:43:28.089 plugin-container[1411:81160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1411] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192351847	geckodriver	INFO	Listening on 127.0.0.1:51040
+1497192352011	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192354300	Marionette	INFO	Listening on port 51047
+1497192354455	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:45:54.967 plugin-container[1425:83718] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:45:54.970 plugin-container[1425:83718] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497192368179	geckodriver	INFO	Listening on 127.0.0.1:51193
+1497192369265	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192371340	Marionette	INFO	Listening on port 51206
+1497192371414	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:46:11.956 plugin-container[1439:84414] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:46:11.958 plugin-container[1439:84414] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497192436502	geckodriver	INFO	Listening on 127.0.0.1:51500
+1497192436596	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192439037	Marionette	INFO	Listening on port 51507
+1497192439134	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:47:19.678 plugin-container[1454:85480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:47:19.681 plugin-container[1454:85480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497192470624	geckodriver	INFO	Listening on 127.0.0.1:51691
+1497192471719	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192474211	Marionette	INFO	Listening on port 51704
+1497192474341	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:47:54.975 plugin-container[1468:86195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:47:54.983 plugin-container[1468:86195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1468] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192555716	geckodriver	INFO	Listening on 127.0.0.1:52026
+1497192556810	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192559372	Marionette	INFO	Listening on port 52039
+1497192559462	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:49:20.166 plugin-container[1484:87524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:49:20.171 plugin-container[1484:87524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497192594688	geckodriver	INFO	Listening on 127.0.0.1:52258
+1497192595767	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192598053	Marionette	INFO	Listening on port 52271
+1497192598190	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:49:58.812 plugin-container[1499:88235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:49:58.815 plugin-container[1499:88235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1499] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192608312	geckodriver	INFO	Listening on 127.0.0.1:52413
+1497192609410	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192612179	Marionette	INFO	Listening on port 52426
+1497192612275	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:50:12.980 plugin-container[1511:89027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:50:12.981 plugin-container[1511:89027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[Child 1511] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192674448	geckodriver	INFO	Listening on 127.0.0.1:52835
+1497192675536	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192678573	Marionette	INFO	Listening on port 52851
+1497192678682	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:51:19.432 plugin-container[1526:91299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:51:19.438 plugin-container[1526:91299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1526] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497192949333	geckodriver	INFO	Listening on 127.0.0.1:53946
+1497192950419	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497192952544	Marionette	INFO	Listening on port 53959
+1497192952635	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 16:55:53.174 plugin-container[1567:95663] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 16:55:53.177 plugin-container[1567:95663] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1567] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497193260781	geckodriver	INFO	Listening on 127.0.0.1:55223
+1497193260999	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497193263256	Marionette	INFO	Listening on port 55230
+1497193263364	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:01:03.889 plugin-container[1601:100709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:01:03.893 plugin-container[1601:100709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497193363671	geckodriver	INFO	Listening on 127.0.0.1:55594
+1497193364765	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497193366949	Marionette	INFO	Listening on port 55607
+1497193367032	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:02:47.600 plugin-container[1620:102049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:02:47.603 plugin-container[1620:102049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497193904779	geckodriver	INFO	Listening on 127.0.0.1:57257
+1497193904852	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497193907203	Marionette	INFO	Listening on port 57264
+1497193907286	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:11:47.836 plugin-container[1653:108323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:11:47.839 plugin-container[1653:108323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497193939814	geckodriver	INFO	Listening on 127.0.0.1:57450
+1497193940937	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497193943667	Marionette	INFO	Listening on port 57463
+1497193943788	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:12:24.684 plugin-container[1675:109406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:12:24.687 plugin-container[1675:109406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[Child 1675] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497194082417	geckodriver	INFO	Listening on 127.0.0.1:58119
+1497194082517	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497194084842	Marionette	INFO	Listening on port 58126
+1497194084966	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:14:45.519 plugin-container[1702:113812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:14:45.521 plugin-container[1702:113812] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497194137016	geckodriver	INFO	Listening on 127.0.0.1:58384
+1497194137129	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497194139896	Marionette	INFO	Listening on port 58391
+1497194140154	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:15:40.970 plugin-container[1717:114943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:15:40.975 plugin-container[1717:114943] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+1497194339171	geckodriver	INFO	Listening on 127.0.0.1:59146
+1497194340243	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497194342369	Marionette	INFO	Listening on port 59159
+1497194342468	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:19:03.045 plugin-container[1744:117789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:19:03.049 plugin-container[1744:117789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497194367812	geckodriver	INFO	Listening on 127.0.0.1:59358
+1497194368899	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497194371820	Marionette	INFO	Listening on port 59371
+1497194371951	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:19:32.680 plugin-container[1755:118582] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:19:32.681 plugin-container[1755:118582] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497194507800	geckodriver	INFO	Listening on 127.0.0.1:59810
+1497194508932	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497194511068	Marionette	INFO	Listening on port 59823
+1497194511141	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:21:51.733 plugin-container[1779:121631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:21:51.736 plugin-container[1779:121631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 1779] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497195125626	geckodriver	INFO	Listening on 127.0.0.1:61990
+1497195125732	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195128245	Marionette	INFO	Listening on port 61997
+1497195128369	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:32:08.970 plugin-container[1843:128224] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:32:08.972 plugin-container[1843:128224] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497195277864	geckodriver	INFO	Listening on 127.0.0.1:62622
+1497195278938	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195282153	Marionette	INFO	Listening on port 62635
+1497195282358	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:34:43.234 plugin-container[1879:130759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:34:43.237 plugin-container[1879:130759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497195327643	geckodriver	INFO	Listening on 127.0.0.1:62916
+1497195327766	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195330185	Marionette	INFO	Listening on port 62923
+1497195330293	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:35:30.864 plugin-container[1894:132117] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:35:30.865 plugin-container[1894:132117] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497195711775	geckodriver	INFO	Listening on 127.0.0.1:63916
+1497195711998	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195714934	Marionette	INFO	Listening on port 63923
+1497195715103	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:41:55.756 plugin-container[1968:136092] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:41:55.758 plugin-container[1968:136092] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497195817699	geckodriver	INFO	Listening on 127.0.0.1:64439
+1497195817795	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195820202	Marionette	INFO	Listening on port 64446
+1497195820310	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:43:40.868 plugin-container[1991:138861] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:43:40.871 plugin-container[1991:138861] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497195886129	geckodriver	INFO	Listening on 127.0.0.1:64806
+1497195886211	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497195888891	Marionette	INFO	Listening on port 64813
+1497195888990	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:44:49.796 plugin-container[2001:140099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:44:49.800 plugin-container[2001:140099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497196681458	geckodriver	INFO	Listening on 127.0.0.1:51461
+1497196682612	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497196686902	Marionette	INFO	Listening on port 51474
+1497196687062	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:58:07.861 plugin-container[2064:153991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:58:07.870 plugin-container[2064:153991] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497196759670	geckodriver	INFO	Listening on 127.0.0.1:51897
+1497196759966	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497196763674	Marionette	INFO	Listening on port 51904
+1497196763754	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 17:59:25.107 plugin-container[2083:155593] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 17:59:25.116 plugin-container[2083:155593] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2083] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497196883451	geckodriver	INFO	Listening on 127.0.0.1:52398
+1497196883559	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497196887639	Marionette	INFO	Listening on port 52409
+1497196887721	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:01:28.330 plugin-container[2109:157604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:01:28.332 plugin-container[2109:157604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497196941010	geckodriver	INFO	Listening on 127.0.0.1:52738
+1497196941129	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497196943768	Marionette	INFO	Listening on port 52745
+1497196943890	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:02:24.885 plugin-container[2128:159680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:02:24.890 plugin-container[2128:159680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497197227666	geckodriver	INFO	Listening on 127.0.0.1:53776
+1497197227876	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497197232964	Marionette	INFO	Listening on port 53783
+1497197233097	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:07:13.982 plugin-container[2160:164252] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:07:13.992 plugin-container[2160:164252] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2160] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497197314456	geckodriver	INFO	Listening on 127.0.0.1:54126
+1497197314775	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497197318229	Marionette	INFO	Listening on port 54133
+1497197318325	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:08:38.884 plugin-container[2178:166317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:08:38.887 plugin-container[2178:166317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2178] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497197952466	geckodriver	INFO	Listening on 127.0.0.1:55979
+1497197953627	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497197957413	Marionette	INFO	Listening on port 55992
+1497197957527	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:19:18.377 plugin-container[2295:174779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:19:18.381 plugin-container[2295:174779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2295] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497197993261	geckodriver	INFO	Listening on 127.0.0.1:56227
+1497197994420	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497197997959	Marionette	INFO	Listening on port 56240
+1497197998067	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:19:58.845 plugin-container[2304:175969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:19:58.846 plugin-container[2304:175969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1497198022484	geckodriver	INFO	Listening on 127.0.0.1:56449
+1497198022692	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198026339	Marionette	INFO	Listening on port 56456
+1497198026574	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:20:27.380 plugin-container[2312:176743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:20:27.383 plugin-container[2312:176743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+2017-06-11 18:22:17.958 plugin-container[2322:179323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:22:17.960 plugin-container[2322:179323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1497198166335	geckodriver	INFO	Listening on 127.0.0.1:56981
+1497198167534	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+2017-06-11 18:22:48.935 plugin-container[2330:179825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:22:48.941 plugin-container[2330:179825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1497198172559	Marionette	INFO	Listening on port 56994
+1497198172709	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:22:53.659 plugin-container[2332:180039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:22:53.672 plugin-container[2332:180039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+2017-06-11 18:23:18.125 plugin-container[2338:180950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:23:18.127 plugin-container[2338:180950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1497198207468	geckodriver	INFO	Listening on 127.0.0.1:57281
+1497198207561	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198211482	Marionette	INFO	Listening on port 57288
+1497198211656	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:23:32.579 plugin-container[2346:181230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:23:32.579 plugin-container[2346:181230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497198382531	geckodriver	INFO	Listening on 127.0.0.1:58006
+1497198382657	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198386277	Marionette	INFO	Listening on port 58013
+1497198386461	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:26:27.424 plugin-container[2372:184043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:26:27.430 plugin-container[2372:184043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2372] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497198454280	geckodriver	INFO	Listening on 127.0.0.1:58325
+1497198454620	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198458288	Marionette	INFO	Listening on port 58332
+1497198458379	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:27:38.948 plugin-container[2381:185978] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:27:38.952 plugin-container[2381:185978] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2381] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497198493499	geckodriver	INFO	Listening on 127.0.0.1:58608
+1497198493600	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198498444	Marionette	INFO	Listening on port 58615
+1497198498575	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:28:19.563 plugin-container[2392:187594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:28:19.567 plugin-container[2392:187594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2392] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497198645654	geckodriver	INFO	Listening on 127.0.0.1:59209
+1497198645953	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198649678	Marionette	INFO	Listening on port 59216
+1497198649844	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:30:51.378 plugin-container[2410:189672] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:30:51.380 plugin-container[2410:189672] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497198706240	geckodriver	INFO	Listening on 127.0.0.1:59560
+1497198707374	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198710120	Marionette	INFO	Listening on port 59573
+1497198710320	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:31:51.465 plugin-container[2424:191332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:31:51.474 plugin-container[2424:191332] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497198820928	geckodriver	INFO	Listening on 127.0.0.1:60091
+1497198821225	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497198825134	Marionette	INFO	Listening on port 60098
+1497198825312	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:33:46.845 plugin-container[2441:194079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:33:46.855 plugin-container[2441:194079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497199015481	geckodriver	INFO	Listening on 127.0.0.1:60903
+1497199015588	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497199018100	Marionette	INFO	Listening on port 60910
+1497199018236	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:36:58.803 plugin-container[2459:197646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:36:58.809 plugin-container[2459:197646] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2459] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497199062323	geckodriver	INFO	Listening on 127.0.0.1:61195
+1497199062436	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497199065415	Marionette	INFO	Listening on port 61202
+1497199065520	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:37:46.313 plugin-container[2471:199301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:37:46.316 plugin-container[2471:199301] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497199277448	geckodriver	INFO	Listening on 127.0.0.1:61939
+1497199277707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497199280190	Marionette	INFO	Listening on port 61946
+1497199280295	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 18:41:20.884 plugin-container[2521:203184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 18:41:20.888 plugin-container[2521:203184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497201585750	geckodriver	INFO	Listening on 127.0.0.1:50095
+1497201587001	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497201589745	Marionette	INFO	Listening on port 50112
+1497201589865	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:19:50.665 plugin-container[2581:216623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:19:50.667 plugin-container[2581:216623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2581] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497201732638	geckodriver	INFO	Listening on 127.0.0.1:50452
+1497201732754	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497201735807	Marionette	INFO	Listening on port 50459
+1497201735919	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:22:16.777 plugin-container[2597:219634] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:22:16.780 plugin-container[2597:219634] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2597] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497203493129	geckodriver	INFO	Listening on 127.0.0.1:54382
+1497203494340	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497203497440	Marionette	INFO	Listening on port 54391
+1497203497586	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:51:38.306 plugin-container[2704:235378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:51:38.311 plugin-container[2704:235378] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9507, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497203539263	geckodriver	INFO	Listening on 127.0.0.1:54699
+1497203540352	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497203542628	Marionette	INFO	Listening on port 54708
+1497203542705	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:52:23.266 plugin-container[2715:236591] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:52:23.270 plugin-container[2715:236591] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497203578717	geckodriver	INFO	Listening on 127.0.0.1:54965
+1497203578865	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497203581198	Marionette	INFO	Listening on port 54972
+1497203581294	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:53:01.818 plugin-container[2724:237774] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:53:01.821 plugin-container[2724:237774] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 2724] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497203619511	geckodriver	INFO	Listening on 127.0.0.1:55237
+1497203620689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497203623383	Marionette	INFO	Listening on port 55250
+1497203623455	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 19:53:44.388 plugin-container[2736:239643] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 19:53:44.389 plugin-container[2736:239643] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 2736] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497204019224	geckodriver	INFO	Listening on 127.0.0.1:56519
+1497204020654	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497204024122	Marionette	INFO	Listening on port 56532
+1497204024285	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 20:00:25.168 plugin-container[2784:245295] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 20:00:25.173 plugin-container[2784:245295] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497204053066	geckodriver	INFO	Listening on 127.0.0.1:56822
+1497204054150	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497204056934	Marionette	INFO	Listening on port 56835
+1497204057044	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 20:00:57.526 plugin-container[2795:246750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 20:00:57.527 plugin-container[2795:246750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497204245246	geckodriver	INFO	Listening on 127.0.0.1:57657
+1497204245476	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497204248903	Marionette	INFO	Listening on port 57664
+1497204249020	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-11 20:04:09.533 plugin-container[2834:250470] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-11 20:04:09.537 plugin-container[2834:250470] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1497221817906	geckodriver	INFO	Listening on 127.0.0.1:63618
+1497221819092	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497221821436	Marionette	INFO	Listening on port 63631
+1497221821519	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 00:57:02.105 plugin-container[2903:271160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 00:57:02.112 plugin-container[2903:271160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9407, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222103908	geckodriver	INFO	Listening on 127.0.0.1:64731
+1497222105090	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222111242	Marionette	INFO	Listening on port 64744
+1497222111630	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:01:54.504 plugin-container[2934:276706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:01:54.521 plugin-container[2934:276706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222138049	geckodriver	INFO	Listening on 127.0.0.1:65036
+1497222138274	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222140627	Marionette	INFO	Listening on port 65043
+1497222140714	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:02:21.234 plugin-container[2941:277489] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:02:21.235 plugin-container[2941:277489] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222314673	geckodriver	INFO	Listening on 127.0.0.1:49417
+1497222315764	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222318215	Marionette	INFO	Listening on port 49426
+1497222318343	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:05:18.887 plugin-container[2960:280623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:05:18.893 plugin-container[2960:280623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222380963	geckodriver	INFO	Listening on 127.0.0.1:49753
+1497222382067	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222384908	Marionette	INFO	Listening on port 49766
+1497222385047	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:06:25.705 plugin-container[2974:282173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:06:25.710 plugin-container[2974:282173] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222747069	geckodriver	INFO	Listening on 127.0.0.1:51127
+1497222748229	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222751434	Marionette	INFO	Listening on port 51140
+1497222751523	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:12:32.164 plugin-container[3011:288357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:12:32.172 plugin-container[3011:288357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[Child 3011] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497222805942	geckodriver	INFO	Listening on 127.0.0.1:51495
+1497222806027	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222808613	Marionette	INFO	Listening on port 51502
+1497222808707	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:13:29.304 plugin-container[3035:290085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:13:29.307 plugin-container[3035:290085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222888227	geckodriver	INFO	Listening on 127.0.0.1:51953
+1497222889325	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222892358	Marionette	INFO	Listening on port 51966
+1497222892453	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:14:53.217 plugin-container[3053:291454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:14:53.220 plugin-container[3053:291454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497222955535	geckodriver	INFO	Listening on 127.0.0.1:52290
+1497222955671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497222958516	Marionette	INFO	Listening on port 52297
+1497222958634	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:15:59.580 plugin-container[3072:292779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:15:59.583 plugin-container[3072:292779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497223016650	geckodriver	INFO	Listening on 127.0.0.1:52633
+1497223017728	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223020247	Marionette	INFO	Listening on port 52642
+1497223020322	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:17:00.880 plugin-container[3087:294648] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:17:00.883 plugin-container[3087:294648] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497223124117	geckodriver	INFO	Listening on 127.0.0.1:53087
+1497223125199	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223127480	Marionette	INFO	Listening on port 53100
+1497223127636	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:18:48.136 plugin-container[3103:296836] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:18:48.141 plugin-container[3103:296836] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497223178402	geckodriver	INFO	Listening on 127.0.0.1:53418
+1497223179485	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223181997	Marionette	INFO	Listening on port 53427
+1497223182143	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:19:42.763 plugin-container[3115:298458] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:19:42.764 plugin-container[3115:298458] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1497223227259	geckodriver	INFO	Listening on 127.0.0.1:53686
+1497223228429	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223230610	Marionette	INFO	Listening on port 53695
+1497223230684	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:20:31.252 plugin-container[3124:299536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:20:31.252 plugin-container[3124:299536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497223555270	geckodriver	INFO	Listening on 127.0.0.1:54874
+1497223555484	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223558185	Marionette	INFO	Listening on port 54881
+1497223558276	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:25:59.044 plugin-container[3172:303435] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:25:59.047 plugin-container[3172:303435] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497223890407	geckodriver	INFO	Listening on 127.0.0.1:56006
+1497223891506	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497223893967	Marionette	INFO	Listening on port 56019
+1497223894063	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:31:34.669 plugin-container[3245:309468] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:31:34.671 plugin-container[3245:309468] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497224188929	geckodriver	INFO	Listening on 127.0.0.1:57031
+1497224189131	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497224193630	Marionette	INFO	Listening on port 57039
+1497224193863	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:36:35.242 plugin-container[3287:314451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:36:35.252 plugin-container[3287:314451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497224287278	geckodriver	INFO	Listening on 127.0.0.1:57496
+1497224287394	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497224291662	Marionette	INFO	Listening on port 57503
+1497224291776	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:38:12.352 plugin-container[3300:316691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:38:12.357 plugin-container[3300:316691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497224377588	geckodriver	INFO	Listening on 127.0.0.1:57953
+1497224377922	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497224382170	Marionette	INFO	Listening on port 57960
+1497224382287	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:39:43.640 plugin-container[3318:318524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:39:43.654 plugin-container[3318:318524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497224465740	geckodriver	INFO	Listening on 127.0.0.1:58355
+1497224465993	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497224469816	Marionette	INFO	Listening on port 58362
+1497224469921	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 01:41:10.675 plugin-container[3327:320730] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 01:41:10.682 plugin-container[3327:320730] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+1497252386781	geckodriver	INFO	Listening on 127.0.0.1:51534
+1497252387989	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497252390608	Marionette	INFO	Listening on port 51547
+1497252390682	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 09:26:31.293 plugin-container[3814:365641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 09:26:31.296 plugin-container[3814:365641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 3814] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1497258943986	geckodriver	INFO	Listening on 127.0.0.1:54862
+1497258945192	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1497258948069	Marionette	INFO	Listening on port 54871
+1497258948167	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-12 11:15:48.840 plugin-container[3954:375746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-12 11:15:48.844 plugin-container[3954:375746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://static.queit.in/sdk.js, line 1: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/PeerConnection.js, line 1265: NS_ERROR_UNEXPECTED: 

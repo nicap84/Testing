@@ -8,4 +8,7 @@
       run install_latest_gecko.sh
     3.2 latest
       run install_chromeDriver.sh
+4 - Install behave
+    pip3 install behave
+
 
